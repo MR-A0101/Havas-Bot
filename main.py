@@ -25,7 +25,7 @@ async def on_message(message):
         return
 
     if message.content.startswith('#hello'):
-      await message.channel.send('Yo Boi!')
+      await message.channel.send('Yo Boi, How you doin!')
 
 #end-to-end
 awake()
