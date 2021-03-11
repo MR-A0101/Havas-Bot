@@ -1,2 +1,2 @@
 # Havas-Bot
-This is a js based, Discord Bot!!
+This is a Python & Js based, Discord Bot!!
