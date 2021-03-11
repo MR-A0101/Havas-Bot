@@ -27,6 +27,6 @@ async def on_message(message):
     if message.content.startswith('#hello'):
       await message.channel.send('Yo Boi, How you doin!')
 
-#end-to-end
+#end-to-end-token-encryption .html-icon
 awake()
 client.run(os.getenv('TOKEN'))
